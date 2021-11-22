@@ -1,0 +1,24 @@
+p{
+	position: relative;
+	left: 10px;
+	right: 10px;
+}
+
+div{
+	border: 4px solid #489AB0;
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+	padding: 12px;
+	background-color: #A3D3DF;
+}
+
+.imagen{
+	position: relative;
+	left: 275px;
+}
+
+body{
+	background-color: #E3E3E3;
+}
+
